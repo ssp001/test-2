@@ -170,6 +170,4 @@ This project is open source and free to use under the **MIT License**.
 
 ---
 
-I can also **make a ready-to-use `requirements.txt` and a small diagram showing frontend ↔ backend communication** for your README if you want—it will look professional and complete.
 
-Do you want me to do that next?
