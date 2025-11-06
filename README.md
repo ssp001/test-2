@@ -165,8 +165,8 @@ This project is open source and free to use under the **MIT License**.
 ## Author
 
 * **Shovan Saha** – Developer, ML Engineer
-* Email: `<your-email>`
-* GitHub: `<your-github-url>`
+* Email: `shovansaha70@gmail.com`
+* GitHub: `https://github.com/ssp001`
 
 ---
 
